@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    }
+]

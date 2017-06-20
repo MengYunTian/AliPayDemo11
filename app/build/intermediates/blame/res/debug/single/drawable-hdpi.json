@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title_bg.png",
+        "source": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_icon.png",
+        "source": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\src\\main\\res\\drawable-hdpi\\msp_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\msp_demo_title.png",
+        "source": "E:\\AndroidStudio\\Administrator\\AndroidStudioProjects\\AliPayDemo\\app\\src\\main\\res\\drawable-hdpi\\msp_demo_title.png"
+    }
+]
